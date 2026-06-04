@@ -22,7 +22,7 @@ Trabajo práctico de la **Capacitación HU**: desarrollo de una página web pers
 tp-pagina-web-capacitacion-hu/
 ├── index.html      # Página principal
 ├── img/
-│   └── perfil.svg  # Imagen de perfil
+│   └── leandro.jpeg  # Imagen de perfil
 └── README.md
 ```
 
@@ -33,5 +33,3 @@ Abrí el archivo `index.html` en cualquier navegador web (doble clic).
 ## 👤 Autor
 
 **Leandro Licata** — [@LeandroLicata](https://github.com/LeandroLicata)
-
-> Este es el primer módulo. En las próximas entregas se incorporarán estilos visuales (CSS) y diseño responsive.
