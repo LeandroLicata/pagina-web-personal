@@ -1,8 +1,8 @@
 # Página Web Personal — Leandro Licata
 
-Trabajo práctico de la **Capacitación HU**: desarrollo de una página web personal básica utilizando **HTML**.
+Trabajo práctico de la **Capacitación HU**: desarrollo de una página web personal básica utilizando **HTML** y, en una segunda etapa, mejora de su diseño con **CSS**.
 
-## 📋 Requisitos cumplidos
+## 📋 Requisitos cumplidos — HTML
 
 - [x] Estructura completa del documento HTML (`html`, `head`, `body`)
 - [x] Título de la página (`<title>`)
@@ -16,11 +16,20 @@ Trabajo práctico de la **Capacitación HU**: desarrollo de una página web pers
   - [x] Campo mensaje
   - [x] Botón de envío
 
+## 🎨 Requisitos cumplidos — CSS
+
+- [x] Uso de un archivo **CSS externo** (`styles.css`)
+- [x] Estilos aplicados a **títulos**, **párrafos** y **listas**
+- [x] Uso de **colores** (paleta con variables CSS), **tipografía**, **márgenes** y **padding**
+- [x] **Flexbox** para organizar el encabezado (foto + texto) y el layout general
+- [x] Diseño **responsive** adaptado a distintos tamaños de pantalla (media query)
+
 ## 📂 Estructura del proyecto
 
 ```
 tp-pagina-web-capacitacion-hu/
-├── index.html      # Página principal
+├── index.html      # Estructura y contenido (HTML)
+├── styles.css      # Estilos (CSS externo)
 ├── img/
 │   └── leandro.jpeg  # Imagen de perfil
 └── README.md
